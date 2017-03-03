@@ -2,15 +2,15 @@
 <p class="ng-scope">@(用法示例)[最后更新时间: 2017年03月03日]</p> 
 <div class="markdown-toc ng-scope"> 
  <ul> 
-  <li><a href="/u/caybear/p/roomap/git#user-content-roomap-api" id="markdown-toc-user-content-roomap-api" rel="nofollow noopener noreferrer">ROOMAP API</a> 
+  <li><a href="#user-content-roomap-api" id="markdown-toc-user-content-roomap-api" rel="nofollow noopener noreferrer">ROOMAP API</a> 
    <ul> 
-    <li><a href="/u/caybear/p/roomap/git#user-content-jia-zai-di-tu-javascript-api" id="markdown-toc-user-content-jia-zai-di-tu-javascript-api" rel="nofollow noopener noreferrer">加载地图JavaScript API</a></li> 
-    <li><a href="/u/caybear/p/roomap/git#user-content-xuan-ding-di-tu-de-divrong-qi" id="markdown-toc-user-content-xuan-ding-di-tu-de-divrong-qi" rel="nofollow noopener noreferrer">选定地图的div容器</a></li> 
-    <li><a href="/u/caybear/p/roomap/git#user-content-chuang-jian-jiu-dian-di-tu-dui-xiang" id="markdown-toc-user-content-chuang-jian-jiu-dian-di-tu-dui-xiang" rel="nofollow noopener noreferrer">创建酒店地图对象</a></li> 
-    <li><a href="/u/caybear/p/roomap/git#user-content-she-ding-lou-ceng-shi-fou-yin-cang" id="markdown-toc-user-content-she-ding-lou-ceng-shi-fou-yin-cang" rel="nofollow noopener noreferrer">设定楼层是否隐藏</a></li> 
-    <li><a href="/u/caybear/p/roomap/git#user-content-she-ding-fang-jian-shi-fou-ke-xuan" id="markdown-toc-user-content-she-ding-fang-jian-shi-fou-ke-xuan" rel="nofollow noopener noreferrer">设定房间是否可选</a></li> 
-    <li><a href="/u/caybear/p/roomap/git#user-content-yu-ding-qu-xiao-yu-ding-fang-jian" id="markdown-toc-user-content-yu-ding-qu-xiao-yu-ding-fang-jian" rel="nofollow noopener noreferrer">预定/取消预定房间</a></li> 
-    <li><a href="/u/caybear/p/roomap/git#user-content-zhen-ting-yong-hu-hong-fa-shi-jian" id="markdown-toc-user-content-zhen-ting-yong-hu-hong-fa-shi-jian" rel="nofollow noopener noreferrer">侦听用户触发事件</a></li> 
+    <li><a href="#user-content-jia-zai-di-tu-javascript-api" id="markdown-toc-user-content-jia-zai-di-tu-javascript-api" rel="nofollow noopener noreferrer">加载地图JavaScript API</a></li> 
+    <li><a href="#user-content-xuan-ding-di-tu-de-divrong-qi" id="markdown-toc-user-content-xuan-ding-di-tu-de-divrong-qi" rel="nofollow noopener noreferrer">选定地图的div容器</a></li> 
+    <li><a href="#user-content-chuang-jian-jiu-dian-di-tu-dui-xiang" id="markdown-toc-user-content-chuang-jian-jiu-dian-di-tu-dui-xiang" rel="nofollow noopener noreferrer">创建酒店地图对象</a></li> 
+    <li><a href="#user-content-she-ding-lou-ceng-shi-fou-yin-cang" id="markdown-toc-user-content-she-ding-lou-ceng-shi-fou-yin-cang" rel="nofollow noopener noreferrer">设定楼层是否隐藏</a></li> 
+    <li><a href="#user-content-she-ding-fang-jian-shi-fou-ke-xuan" id="markdown-toc-user-content-she-ding-fang-jian-shi-fou-ke-xuan" rel="nofollow noopener noreferrer">设定房间是否可选</a></li> 
+    <li><a href="#user-content-yu-ding-qu-xiao-yu-ding-fang-jian" id="markdown-toc-user-content-yu-ding-qu-xiao-yu-ding-fang-jian" rel="nofollow noopener noreferrer">预定/取消预定房间</a></li> 
+    <li><a href="#user-content-zhen-ting-yong-hu-hong-fa-shi-jian" id="markdown-toc-user-content-zhen-ting-yong-hu-hong-fa-shi-jian" rel="nofollow noopener noreferrer">侦听用户触发事件</a></li> 
    </ul> </li> 
  </ul> 
 </div> 
